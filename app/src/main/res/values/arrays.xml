@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_array">
+        <item>Simple MediaPlayer</item>
+        <item>Simple RemoteService</item>
+        <item>Sensor List</item>
+        <item>OkHttp https test</item>
+        <item>Snackbar and Toast</item>
+    </string-array>
+</resources>
